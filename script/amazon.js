@@ -84,6 +84,7 @@ function addToCart(productId) {
                 quantity,
             })
         }
+     console.log(cart);
 }
 
 // displaying quantity of the cart
